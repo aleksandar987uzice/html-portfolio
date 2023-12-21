@@ -1,0 +1,16 @@
+.prvi, .drugi, .treci, .cetvrti {
+    width: 100%;
+    height: 25vh;
+}
+.prvi {
+    background-color: #F6D6D6;
+}
+.drugi {
+    background-color: #F6F7C4
+}
+.treci {
+    background-color: #A1EEBD
+}   
+.cetvrti {
+    background-color: #7BD3EA
+}   
